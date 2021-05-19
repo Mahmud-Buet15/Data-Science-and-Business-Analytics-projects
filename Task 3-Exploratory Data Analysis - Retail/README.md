@@ -10,3 +10,6 @@ _Please click on the images on right side to view my solution._
 3. What all business problems you can derive by exploring the data?
 4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 5. **Dataset:** https://bit.ly/3i4rbWl
+
+
+I have used Python for completing this task.
