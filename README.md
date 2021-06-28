@@ -8,5 +8,9 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 - **Internship status** - Completed
 
+<br>
+<img align = center height ='' width = '' src = https://truecertificates.com/secure/snapshot/36JP24LTP2.png>
+
+
 
 
